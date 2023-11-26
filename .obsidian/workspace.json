@@ -895,8 +895,7 @@
               }
             }
           }
-        ],
-        "currentTab": 71
+        ]
       }
     ],
     "direction": "vertical"
@@ -1022,8 +1021,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "63ee9f62b6f642f4",
@@ -1068,8 +1066,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528.5,
-    "collapsed": true
+    "width": 528.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1078,10 +1075,14 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cf799731591d9dc",
+  "active": "0d82d1b15b4f8bd1",
   "lastOpenFiles": [
     "Templates/Daily Note Template.md",
     "데코레이터 패턴.md",
