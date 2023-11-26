@@ -962,7 +962,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스 명령어.md",
+                "file": "Templates/Daily Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -979,7 +979,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스 명령어.md",
+                "file": "Templates/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1002,7 +1002,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스 명령어.md"
+                "file": "Templates/Daily Note Template.md"
               }
             }
           },
@@ -1035,7 +1035,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "리눅스 명령어.md",
+                "file": "Templates/Daily Note Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -1068,23 +1068,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528.5
+    "width": 528.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "templater-obsidian:Templater": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "22565cc1eecf0a0a",
+  "active": "7cf799731591d9dc",
   "lastOpenFiles": [
     "Templates/Daily Note Template.md",
     "데코레이터 패턴.md",
