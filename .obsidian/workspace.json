@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sealed",
+                "query": "고차",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,8 +186,9 @@
   },
   "active": "f9a886b2685a8ba1",
   "lastOpenFiles": [
-    "코틀린 if문.md",
+    "람다 스터디 정리.md",
     "코틀린 인 액션 9장 '제네릭스'.md",
+    "코틀린 if문.md",
     "리소스/Pasted image 20231015211219.png",
     "리소스",
     "11월 29일 발표.md",
@@ -201,7 +203,6 @@
     "육각형 개발자.md",
     "오늘 질문.md",
     "리눅스 명령어.md",
-    "람다 스터디 정리.md",
     "데코레이터 패턴.md",
     "코틀린 인 액션 4장 '클래스, 객체, 인터페이스'.md",
     "임시 메모(fleeting notes)/java/자바 람다식.md",
