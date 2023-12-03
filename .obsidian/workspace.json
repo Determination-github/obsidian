@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코틀린 인 액션 4장 '클래스, 객체, 인터페이스'.md",
+                "file": "코틀린 인 액션 9장 '제네릭스'.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "companion object",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코틀린 인 액션 4장 '클래스, 객체, 인터페이스'.md",
+                "file": "코틀린 인 액션 9장 '제네릭스'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코틀린 인 액션 4장 '클래스, 객체, 인터페이스'.md",
+                "file": "코틀린 인 액션 9장 '제네릭스'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코틀린 인 액션 4장 '클래스, 객체, 인터페이스'.md"
+                "file": "코틀린 인 액션 9장 '제네릭스'.md"
               }
             }
           }
@@ -186,6 +185,7 @@
   },
   "active": "f9a886b2685a8ba1",
   "lastOpenFiles": [
+    "코틀린 인 액션 4장 '클래스, 객체, 인터페이스'.md",
     "임시 메모(fleeting notes)/kotlin/정적 팩토리 메소드를 이용한 객체 변환 방법.md",
     "임시 메모(fleeting notes)/java/자바에서 companion object에 접근하는 방법.md",
     "코틀린 인 액션 9장 '제네릭스'.md",
@@ -206,7 +206,6 @@
     "오늘 질문.md",
     "리눅스 명령어.md",
     "데코레이터 패턴.md",
-    "코틀린 인 액션 4장 '클래스, 객체, 인터페이스'.md",
     "임시 메모(fleeting notes)/java/자바 람다식.md",
     "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
     "임시 메모(fleeting notes)/코딩테스트/시간 복잡도.md",
