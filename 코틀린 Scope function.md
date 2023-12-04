@@ -57,6 +57,15 @@ val result = with(someObject) {
 	//여기서는 someObejct의 멤버에 직접 접근 가능
 	//블록의 마지막 표현식이 반환됨
 }
+
+//예시
+//this 생략 가능
+return with(person) {
+	PersonDto(
+		name = name,
+		age = age,
+	)
+}
 ```
 
 apply
