@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2abf147a8405f00f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코틀린 인 액션 9장 '제네릭스'.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코틀린 인 액션 9장 '제네릭스'.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코틀린 인 액션 9장 '제네릭스'.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -187,8 +199,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f9a886b2685a8ba1",
+  "active": "2abf147a8405f00f",
   "lastOpenFiles": [
+    "코틀린 인 액션 9장 '제네릭스'.md",
+    "무제 파일.md",
     "코틀린 인 액션 9장 '제네릭스' 복사본.md",
     "11월 29일 발표.md",
     "2023-12-03.md",
@@ -204,7 +218,6 @@
     "자바, 스프링 패키지 구성.md",
     "육각형 개발자.md",
     "코틀린 인 액션 6장 '코틀린 타입 시스템'.md",
-    "코틀린 인 액션 9장 '제네릭스'.md",
     "리소스/Pasted image 20231203215740.png",
     "코틀린 인 액션 4장 '클래스, 객체, 인터페이스'.md",
     "임시 메모(fleeting notes)/kotlin/정적 팩토리 메소드를 이용한 객체 변환 방법.md",
@@ -218,7 +231,6 @@
     "오늘 질문.md",
     "임시 메모(fleeting notes)/java/자바 람다식.md",
     "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
-    "임시 메모(fleeting notes)/코딩테스트/시간 복잡도.md",
     "리소스/Pasted image 20231105221931.png",
     "리소스/Pasted image 20231105165545.png",
     "리소스/Pasted image 20231102230636.png",
