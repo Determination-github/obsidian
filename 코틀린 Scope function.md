@@ -41,7 +41,28 @@ run
 
 with
 - `with`함수는 수신 객체를 인자로 받지 않고, 코드 블록 내에서 수신 객체의 멤버에 직접 접근할 수 있도록 한다.
-- `with`함수는 일반 함술
+- `with`함수는 일반 함수로, 수신 객체를 인자로 받아서 코드 블록을 실행한 후 블록의 결과를 반환
+```kotlin
+val result = with(someObject) {
+	//여기서는 someObejct의 멤버에 직접 접근 가능
+	//블록의 마지막 표현식이 반환됨
+}
+```
+
+apply
+- `apply`함수는 수신 객체를 람다 함수의 리시버로 전달, 수신 객체를 반환함
+- 주로 객체의 초기화 또는 설정 시 사용
+```kotlin
+val someObject = SomeClass().apply {
+	//여기서는 someObject의 멤버에 직접 접근 가능
+	property1 = "value1"
+	property2 = "value2"
+}
+```
+
+also
+- `also`함수는 수신 객체를 람다 함수의 리시버로 전달하고, 수신 객체를 반환
+- `apply`와 유사하지만
 
 출처:
 연결lllllll문서
