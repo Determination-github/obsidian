@@ -1,8 +1,8 @@
-# 제목
+# 코틀린(as_import, 구조분해, takeIf)
 ---
 
 날짜: 2023-12-04
-태그: #코틀린 #as_import #구조분해 #componentN #Jump #Label #TakeIf #TakeUnless
+태그: #코틀린 #as_import #구조분해 #componentN #TakeIf #TakeUnless
 메모:
 
 as import
@@ -77,7 +77,17 @@ TakeIf
 - 예시
 ```kotlin
 val number = 42
-val result = number.takeIf
+val result = number.takeIf { it > 0 }
+```
+
+
+TakeUnless
+- `takeIf`와 반대 동작을 수행함
+- 즉, 주어진 조건이 거짓일 경우에만 수행되고, 조건이 참이면 'Null'을 반환
+- 예시
+```kotlin
+val number = 42
+val result = number.takeUnless { it <= 0 }
 ```
 
 
