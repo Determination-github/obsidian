@@ -15,6 +15,13 @@ scope function
 	- apply
 	- also
 
+|              | it 사용    | this 사용 |
+| ------------ | ---------- | --------- |
+| 람다의 결과  | let        | run       |
+| 객체 그 자체 | also, with | apply     |
+- this: 생략이 가능한 대신, 다른 이름을 붙일 수 없다.
+- it: 생략이 불가능한 대신, 다른 이름을 붙일 수 있다.
+
 let
 - `let`함수는 수신 객체를 람다 함수의 인자로 전달하고, 람다 함수의 결과를 반환함
 - 주로 null 체크나 변환 연산을 수행할 때 사용
@@ -26,7 +33,6 @@ val result = someNullableValue?.let {
 	it.length
 }
 ```
-
 
 run
 - `run`함수는 수신 객체에서 코드 블록을 실행하고, 람다 함수의 결과를 반환함
@@ -62,7 +68,16 @@ val someObject = SomeClass().apply {
 
 also
 - `also`함수는 수신 객체를 람다 함수의 리시버로 전달하고, 수신 객체를 반환
-- `apply`와 유사하지만
+- `apply`와 유사하지만, `also`는 블록의 마지막 표현식이 아닌 수신 객체 자체를 반환함
+- 주로 객체를 생성하고 그에 대한 추가 작업을 수행할 때 사용
+```kotlin
+val someObject = SomeClass().also {
+	//여기서는 someObject의 멤버에 직접 접근이 가능
+	//마지막 표현식이 아니라 객체 자체를 반환
+	it.property1 = "value1"
+	it.property2 = "value2"
+}
+```
 
 출처:
 연결lllllll문서
