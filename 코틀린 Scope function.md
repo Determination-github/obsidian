@@ -36,13 +36,17 @@ val result = someNullableValue?.let {
 
 run
 - `run`함수는 수신 객체에서 코드 블록을 실행하고, 람다 함수의 결과를 반환함
+- 객체 초기화와 반환 값의 계산을 동시에 해야 할 대 사용
 - `this` 키워드를 통해 수신 객체에 접근할 수 있음
  ```kotlin
  val result = someObject.run {
 	 //여기서는 someObject의 멤버에 직접 접근 가능하다.
 	 //블록 마지막 표현식이 반환된다.
 	 this.property1 + this.property2
- }
+}
+
+//객체를 만들어 DB에 바로 저장하고, 그 인스턴스를 활용할 때
+val person = Person("A", 30).run(personReposiotry::save)
 ```
 
 with
