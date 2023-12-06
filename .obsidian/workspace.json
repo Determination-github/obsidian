@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "out any",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,10 +226,10 @@
   },
   "active": "8df5322a51c3a4e5",
   "lastOpenFiles": [
-    "코틀린 Scope function.md",
-    "코틀린 인 액션 10장 '애노테이션과 리플렉션'.md",
-    "코틀린(as_import, 구조분해, takeIf).md",
     "코틀린 인 액션 9장 '제네릭스'.md",
+    "코틀린 인 액션 10장 '애노테이션과 리플렉션'.md",
+    "코틀린 Scope function.md",
+    "코틀린(as_import, 구조분해, takeIf).md",
     "코틀린 인 액션 9장 '제네릭스' 복사본.md",
     "11월 29일 발표.md",
     "2023-12-03.md",
