@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "out any",
+                "query": "리플렉션",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,7 +224,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8df5322a51c3a4e5",
+  "active": "57ce333baa1f0b5f",
   "lastOpenFiles": [
     "코틀린 인 액션 9장 '제네릭스'.md",
     "코틀린 인 액션 10장 '애노테이션과 리플렉션'.md",
