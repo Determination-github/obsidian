@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ad996d741a42643b",
@@ -206,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +222,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d9fdc1dc4014995e",
+  "active": "8df5322a51c3a4e5",
   "lastOpenFiles": [
     "리소스/코틀린리플렉션인터페이스계층구조.png",
     "코틀린 인 액션 10장 '애노테이션과 리플렉션'.md",
