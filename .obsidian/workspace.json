@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "임시 메모(fleeting notes)/spring/Spring Boot의 Layered Architecture.md",
+                "file": "임시 메모(fleeting notes)/코딩테스트/합배열.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "리플렉션",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "임시 메모(fleeting notes)/spring/Spring Boot의 Layered Architecture.md",
+                "file": "임시 메모(fleeting notes)/코딩테스트/합배열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "임시 메모(fleeting notes)/spring/Spring Boot의 Layered Architecture.md",
+                "file": "임시 메모(fleeting notes)/코딩테스트/합배열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "임시 메모(fleeting notes)/spring/Spring Boot의 Layered Architecture.md"
+                "file": "임시 메모(fleeting notes)/코딩테스트/합배열.md"
               }
             }
           }
@@ -212,12 +212,14 @@
   },
   "active": "29fbbc91b0ae262c",
   "lastOpenFiles": [
+    "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
+    "코틀린 인 액션 6장 '코틀린 타입 시스템'.md",
+    "임시 메모(fleeting notes)/spring/Spring Boot의 Layered Architecture.md",
     "코틀린 Scope function.md",
     "리소스/스프링부트각계층테스트(1).png",
     "리소스/스프링부트각계층테스트(3).png",
     "리소스/스프링부트각계층테스트(2).png",
     "Pasted image 20231212220617.png",
-    "임시 메모(fleeting notes)/spring/Spring Boot의 Layered Architecture.md",
     "리소스/springboot의 layered 아키텍처(2).png",
     "리소스/springboot의 layered 아키텍처(1).png",
     "임시 메모(fleeting notes)/spring/Junit5에서 사용되는 5가지 어노테이션.md",
@@ -241,7 +243,6 @@
     "2023 Spring Camp 대규모 엔터프라이즈 시스템 개편 경험기.md",
     "추상클래스와 private 생성자로 유틸 클래스 만들기.md",
     "자바, 스프링 패키지 구성.md",
-    "코틀린 인 액션 6장 '코틀린 타입 시스템'.md",
     "리소스/Pasted image 20231203215740.png",
     "코틀린 인 액션 4장 '클래스, 객체, 인터페이스'.md",
     "임시 메모(fleeting notes)/kotlin/정적 팩토리 메소드를 이용한 객체 변환 방법.md",
