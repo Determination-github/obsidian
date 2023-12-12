@@ -34,5 +34,26 @@ Junit의 5가지 어노테이션
 - hasSize
 - startsWith/endsWith
 
+asserThrows
+- 예외가 발생하는지 여부를 확인하기 위해 사용되는 AssertJ의 메서드
+- 주어진 코드 블록이 실행될 때 예외가 발생하면 성공하고, 예외가 발생하지 않으면 실패
+- 예시)
+```kotlin
+@Test  
+fun testException() {  
+    val exception: Throwable = assertThrows(Exception::class.java) {  
+        // 예외가 발생할 코드  
+        throw Exception("예외 메시지")  
+    }  
+  
+    // 예외 메시지 확인  
+    assertThat(exception.message).isEqualTo("예외 메시지")  
+    assertEquals("예외 메시지", exception.message)  
+}
+```
+
+
+> assert
+
 출처:
 연결문서
