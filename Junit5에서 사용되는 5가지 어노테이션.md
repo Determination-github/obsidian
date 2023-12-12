@@ -11,5 +11,11 @@
 @BeforeAll: 모든 테스트를 수행하기 전에 최초 1회 수행되는 메서드를 지정
 @AfterAll: 모든 테스트를 수행한 후 최초 1회 수행되는 메서드를 지정
 
+> @BeforeAll과 @AfterAll에는 @JvmStatic을 붙여야 한다.
+> Kotlin은 기본적으로 클래스 멤버 함수를 정적 함수로 간주하지 않는다. 하지만 '@JvmStatic' 어노테이션을 사용하면 Kotlin 컴파일러에게 해당 함수를 정적 메서드로 처리하도록 지시할 수 있다. @BeforeAll과 @AfterAll은 정적 메서드로 정의되어야 해서 @JvmStatic 어노테이션을 붙인다.
+
+
+
+
 출처:
 연결문서
