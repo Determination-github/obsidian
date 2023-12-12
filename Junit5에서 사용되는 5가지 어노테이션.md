@@ -5,6 +5,7 @@
 태그:
 메모:
 
+Junit의 5가지 어노테이션
 @Test: 테스트 메소드를 지정한다. 테스트 메서드를 실행하는 과정에서 오류가 없으면 성공
 @BeforeEach: 각 테스트 메서드가 수행되기 전에 실행되는 메서드를 지정
 @AfterEach: 각 테스트가 수행된 후에 실행되는 메서드를 지정
@@ -15,7 +16,23 @@
 > Kotlin은 기본적으로 클래스 멤버 함수를 정적 함수로 간주하지 않는다. 하지만 '@JvmStatic' 어노테이션을 사용하면 Kotlin 컴파일러에게 해당 함수를 정적 메서드로 처리하도록 지시할 수 있다. @BeforeAll과 @AfterAll은 정적 메서드로 정의되어야 해서 @JvmStatic 어노테이션을 붙인다.
 
 
+단언문
+- 테스트 검증 메서드 중 하나
+- 'assertThat' 메서드 자체는 JUnit에 포함되어 있지 않고, AssertJ 라이브러리에서 제공
+- 'assertThat'을 사용하면 테스트에서 예상되는 결과와 실제 결과를 비교할 수 있다.
 
+단언문 메서드
+- isEqualTo
+- isNotNull
+- isNull
+- isTrue/isFalse
+- isInstanceOf
+- isNotInstanceOf
+- isNotEmpty/isEmpty
+- contains
+- containsExactly
+- hasSize
+- startsWith/endsWith
 
 출처:
 연결문서
