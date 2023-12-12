@@ -53,7 +53,11 @@ fun testException() {
 ```
 
 
-> assert
+> assertThat과 assertEquals의 차이
+> `assertEquals`는 Junit 라이브러리에서 제공하는 메서드이며, 두 값을 비교하여 같은지 확인하는 데 사용된다. `assertThat`은 AssertJ 라이브러리에서 제공하는 메서드이며, 좀 더 풍부한 검증 기능을 제공한다.
+> 주요 차이점:
+> 1. 가독성: `assertThat`은 체이닝을 통해 자연스럽게 문장을 만들 수 있어 가독성이 높음
+> 2. 메시지: `assertEquals`는 추가로 메시지를 지정하기 어려우며, 실패 시 제공되는 메시지가 한정적
 
 출처:
 연결문서
