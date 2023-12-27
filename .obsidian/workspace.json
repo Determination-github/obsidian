@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코틀린(as_import, 구조분해, takeIf).md",
+                "file": "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코틀린(as_import, 구조분해, takeIf).md",
+                "file": "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코틀린(as_import, 구조분해, takeIf).md",
+                "file": "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코틀린(as_import, 구조분해, takeIf).md"
+                "file": "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md"
               }
             }
           }
@@ -200,6 +200,7 @@
   },
   "active": "2abf147a8405f00f",
   "lastOpenFiles": [
+    "코틀린(as_import, 구조분해, takeIf).md",
     "임시 메모(fleeting notes)/코딩테스트/합배열.md",
     "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
     "리소스/백준_10986.png",
@@ -223,7 +224,6 @@
     "프로퍼티 접근자 로직 재활용.md",
     "육각형 개발자.md",
     "코틀린 인 액션 9장 '제네릭스'.md",
-    "코틀린(as_import, 구조분해, takeIf).md",
     "코틀린 인 액션 9장 '제네릭스' 복사본.md",
     "11월 29일 발표.md",
     "코틀린 인 액션 7장 '연산자 오버로딩과 기타 관례'.md",
