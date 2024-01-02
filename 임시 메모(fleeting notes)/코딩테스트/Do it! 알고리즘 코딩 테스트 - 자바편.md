@@ -71,7 +71,7 @@ public class codingTest {
 투포인터
 - 시간복잡도가 O(N)
 - 시작 인덱스랑 종료 인덱스를 설정(투 포인터)
-- 백준문제 2018, 1940
+- 백준문제 2018, 1940, 1253
 
 예시)
 백준 1940번
@@ -102,8 +102,51 @@ public class codingTest {
 - 시간 복잡도를 고려해야 한다. N의 최대 범위가 15,000이므로 O(nlogn) 시간 복잡도 알고리즘을 사용해도 괜찮다.
 - N의 최대 범위가 15,000이므로 O(nlogn) 시간 복잡도 알고리즘을 사용해도 괜찮다. 즉, 정렬을 사용해도 된다.
 ```java
-
+import java.io.BufferedReader;  
+import java.io.IOException;  
+import java.io.InputStreamReader;  
+import java.util.Arrays;  
+import java.util.StringTokenizer;  
+  
+public class baekjoon_1940 {  
+    public static void main(String[] args) throws IOException {  
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));  
+        StringTokenizer st = new StringTokenizer(br.readLine());  
+  
+        int N = Integer.parseInt(st.nextToken());  
+        st = new StringTokenizer(br.readLine());  
+        int M = Integer.parseInt(st.nextToken());  
+  
+        int[] c = new int[N];  
+        st = new StringTokenizer(br.readLine());  
+        for (int i = 0; i < N; i++) {  
+            c[i] = Integer.parseInt(st.nextToken());  
+        }  
+  
+        Arrays.sort(c);  
+        int count = 0;  
+        int start = 0;  
+        int end = N - 1;  
+  
+        while (start < end) {  
+            if (c[start] + c[end] == M) {  
+                count++;  
+                start++;  
+                end--;  
+            } else if (c[start] + c[end] < M) {  
+                start++;  
+            } else {  
+                end--;  
+            }  
+        }  
+  
+        System.out.println(count);  
+    }  
+}
 ```
+
+
+
 
 출처:
 연결문서
