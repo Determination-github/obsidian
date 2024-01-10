@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "123e901705d2fb74",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,7 +208,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d9fdc1dc4014995e",
+  "active": "123e901705d2fb74",
   "lastOpenFiles": [
     "리소스/baekjoon_12891.png",
     "코틀린(as_import, 구조분해, takeIf).md",
