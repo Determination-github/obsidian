@@ -76,9 +76,21 @@
                 "currentVersion": "1.5.3"
               }
             }
+          },
+          {
+            "id": "2326d4321f4fff25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "오브젝트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
+                "file": "오브젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
+                "file": "오브젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md"
+                "file": "오브젝트.md"
               }
             }
           }
@@ -208,8 +220,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "123e901705d2fb74",
+  "active": "2326d4321f4fff25",
   "lastOpenFiles": [
+    "오브젝트.md",
+    "무제 폴더",
+    "임시 메모(fleeting notes)/오브젝트",
     "리소스/baekjoon_12891.png",
     "코틀린(as_import, 구조분해, takeIf).md",
     "임시 메모(fleeting notes)/코딩테스트/합배열.md",
@@ -245,7 +260,6 @@
     "2023 Spring Camp 대규모 엔터프라이즈 시스템 개편 경험기.md",
     "추상클래스와 private 생성자로 유틸 클래스 만들기.md",
     "자바, 스프링 패키지 구성.md",
-    "리소스/Pasted image 20231203215740.png",
     "코틀린 인 액션 4장 '클래스, 객체, 인터페이스'.md",
     "임시 메모(fleeting notes)/kotlin/정적 팩토리 메소드를 이용한 객체 변환 방법.md",
     "리소스",
@@ -254,8 +268,6 @@
     "임시 메모(fleeting notes)/ruby on rails",
     "임시 메모(fleeting notes)/kotlin",
     "임시 메모(fleeting notes)/java",
-    "임시 메모(fleeting notes)/aws",
-    "임시 메모(fleeting notes)/git",
-    "임시 메모(fleeting notes)"
+    "임시 메모(fleeting notes)/aws"
   ]
 }
