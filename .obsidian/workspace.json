@@ -49,18 +49,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코틀린 인 액션 9장 '제네릭스'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2abf147a8405f00f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "오브젝트.md",
                 "mode": "source",
                 "source": false
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,11 +186,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2abf147a8405f00f",
+  "active": "f9a886b2685a8ba1",
   "lastOpenFiles": [
+    "오늘 질문.md",
+    "코틀린 인 액션 9장 '제네릭스'.md",
+    "리소스/오브젝트_1.4.png",
+    "오브젝트.md",
     "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
     "리소스/오브젝트_1.1.png",
-    "오브젝트.md",
     "무제 폴더",
     "임시 메모(fleeting notes)/오브젝트",
     "리소스/baekjoon_12891.png",
@@ -219,7 +210,6 @@
     "리소스/스프링부트각계층테스트(2).png",
     "Pasted image 20231212220617.png",
     "리소스/springboot의 layered 아키텍처(2).png",
-    "리소스/springboot의 layered 아키텍처(1).png",
     "임시 메모(fleeting notes)/spring/Junit5에서 사용되는 5가지 어노테이션.md",
     "2023-12-03.md",
     "무제 파일.canvas",
@@ -227,7 +217,6 @@
     "코틀린 인 액션 10장 '애노테이션과 리플렉션'.md",
     "프로퍼티 접근자 로직 재활용.md",
     "육각형 개발자.md",
-    "코틀린 인 액션 9장 '제네릭스'.md",
     "코틀린 인 액션 9장 '제네릭스' 복사본.md",
     "11월 29일 발표.md",
     "코틀린 인 액션 7장 '연산자 오버로딩과 기타 관례'.md",
