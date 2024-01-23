@@ -47,9 +47,11 @@
             "id": "f9a886b2685a8ba1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "리소스/응집도.png"
+                "file": "오브젝트.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리소스/응집도.png",
+                "file": "오브젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리소스/응집도.png",
+                "file": "오브젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리소스/응집도.png"
+                "file": "오브젝트.md"
               }
             }
           }
@@ -184,8 +186,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d9fdc1dc4014995e",
+  "active": "f9a886b2685a8ba1",
   "lastOpenFiles": [
+    "리소스/결합도.png",
     "Pasted image 20240117214213.png",
     "오브젝트.md",
     "리소스/응집도.png",
@@ -207,7 +210,6 @@
     "코틀린 인 액션 6장 '코틀린 타입 시스템'.md",
     "임시 메모(fleeting notes)/spring/Spring Boot의 Layered Architecture.md",
     "코틀린 Scope function.md",
-    "리소스/스프링부트각계층테스트(1).png",
     "임시 메모(fleeting notes)/spring/Junit5에서 사용되는 5가지 어노테이션.md",
     "2023-12-03.md",
     "무제 파일.canvas",
