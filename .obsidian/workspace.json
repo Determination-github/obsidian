@@ -57,6 +57,24 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "eef701aa3b0be458",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15ab32d1a6c84045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "오브젝트.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "오브젝트.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "오브젝트.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -186,11 +204,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f9a886b2685a8ba1",
+  "active": "15ab32d1a6c84045",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "오브젝트.md",
     "리소스/결합도.png",
     "Pasted image 20240117214213.png",
-    "오브젝트.md",
     "리소스/응집도.png",
     "리소스/영화예매도메인.png",
     "리소스/오브젝트_1.6.png",
