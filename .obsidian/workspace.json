@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "오브젝트 4장 정리.md",
+                "file": "오브젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "오브젝트 4장 정리.md",
+                "file": "오브젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "오브젝트 4장 정리.md"
+                "file": "오브젝트.md"
               }
             }
           }
@@ -229,11 +229,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1c92d3861ae380ab",
+  "active": "f9a886b2685a8ba1",
   "lastOpenFiles": [
-    "오브젝트 3장 정리.md",
     "오브젝트 4장 정리.md",
     "오브젝트.md",
+    "오브젝트 3장 정리.md",
     "오브젝트 2장 정리.md",
     "리소스/결합도.png",
     "Pasted image 20240117214213.png",
