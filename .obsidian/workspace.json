@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "8075ac12773e8b0f",
-        "type": "tabs",
-        "dimension": 45.718654434250766,
-        "children": [
-          {
-            "id": "f9a886b2685a8ba1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "오브젝트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "eef701aa3b0be458",
         "type": "tabs",
-        "dimension": 54.28134556574924,
         "children": [
           {
             "id": "15ab32d1a6c84045",
@@ -193,15 +173,52 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
+  "floating": {
+    "id": "c5ba35ac42e8ddc1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6a350d73ee1f6639",
+        "type": "window",
+        "children": [
+          {
+            "id": "828a3f9c1fa14c79",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9a886b2685a8ba1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "오브젝트.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1880,
+        "y": 78,
+        "width": 1345,
+        "height": 934,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
   "active": "15ab32d1a6c84045",
   "lastOpenFiles": [
+    "오브젝트 4장 정리.md",
+    "오브젝트 2장 정리.md",
     "오브젝트.md",
+    "리소스/결합도.png",
     "영구 노트(permanent notes)/자바 함수형 프로그래밍(람다, 메소드 참조).md",
     "코틀린 if문.md",
-    "오브젝트 2장 정리.md",
-    "오브젝트 4장 정리.md",
     "오브젝트 3장 정리.md",
-    "리소스/결합도.png",
     "Pasted image 20240117214213.png",
     "리소스/응집도.png",
     "리소스/영화예매도메인.png",
@@ -234,7 +251,6 @@
     "코틀린 인 액션 7장 '연산자 오버로딩과 기타 관례'.md",
     "코틀린 원시 타입.md",
     "람다 스터디 정리.md",
-    "리눅스 명령어.md",
     "리소스",
     "임시 메모(fleeting notes)/코딩테스트",
     "리소스",
