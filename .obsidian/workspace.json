@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "오브젝트 4장 정리.md",
+                "file": "오브젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "오브젝트 4장 정리.md",
+                "file": "오브젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "오브젝트 4장 정리.md"
+                "file": "오브젝트.md"
               }
             }
           }
@@ -211,11 +211,11 @@
       }
     ]
   },
-  "active": "1c92d3861ae380ab",
+  "active": "f9a886b2685a8ba1",
   "lastOpenFiles": [
+    "오브젝트 4장 정리.md",
     "오브젝트 3장 정리.md",
     "오브젝트.md",
-    "오브젝트 4장 정리.md",
     "오브젝트 2장 정리.md",
     "리소스/결합도.png",
     "영구 노트(permanent notes)/자바 함수형 프로그래밍(람다, 메소드 참조).md",
