@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "오브젝트.md",
+                "file": "람다 스터디 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "참조 투명성",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "오브젝트.md",
+                "file": "람다 스터디 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "오브젝트.md",
+                "file": "람다 스터디 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "오브젝트.md"
+                "file": "람다 스터디 정리.md"
               }
             }
           }
@@ -202,8 +203,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 23,
-        "y": 44,
+        "x": 1880,
+        "y": 78,
         "width": 1345,
         "height": 934,
         "maximize": false,
@@ -213,11 +214,11 @@
   },
   "active": "1c92d3861ae380ab",
   "lastOpenFiles": [
+    "오브젝트.md",
     "오브젝트 4장 정리.md",
     "리소스/언어별메시지전송예시.png",
     "오브젝트 2장 정리.md",
     "Pasted image 20240117214213.png",
-    "오브젝트.md",
     "무제 파일.md",
     "오브젝트 3장 정리.md",
     "리소스/결합도.png",
