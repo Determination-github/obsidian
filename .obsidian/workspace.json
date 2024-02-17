@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "오브젝트 2장 정리.md",
+                "file": "오브젝트.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "합성",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "오브젝트 2장 정리.md",
+                "file": "오브젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "오브젝트 2장 정리.md",
+                "file": "오브젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "오브젝트 2장 정리.md"
+                "file": "오브젝트.md"
               }
             }
           }
@@ -175,10 +174,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1c92d3861ae380ab",
+  "active": "d9fdc1dc4014995e",
   "lastOpenFiles": [
-    "오브젝트.md",
     "오브젝트 2장 정리.md",
+    "오브젝트.md",
     "오브젝트 3장 정리.md",
     "람다 스터디 정리.md",
     "오브젝트 4장 정리.md",
