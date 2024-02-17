@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ad996d741a42643b",
@@ -174,7 +175,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d9fdc1dc4014995e",
+  "active": "1c92d3861ae380ab",
   "lastOpenFiles": [
     "오브젝트 2장 정리.md",
     "오브젝트.md",
