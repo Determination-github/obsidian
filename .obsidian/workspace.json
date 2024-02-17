@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "합성",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,9 +177,9 @@
   },
   "active": "1c92d3861ae380ab",
   "lastOpenFiles": [
-    "오브젝트 3장 정리.md",
-    "오브젝트.md",
     "오브젝트 2장 정리.md",
+    "오브젝트.md",
+    "오브젝트 3장 정리.md",
     "람다 스터디 정리.md",
     "오브젝트 4장 정리.md",
     "리소스/언어별메시지전송예시.png",
