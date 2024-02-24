@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "107c8ff7fe3d6fb6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -187,7 +197,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7bbfae66d318576a",
+  "active": "107c8ff7fe3d6fb6",
   "lastOpenFiles": [
     "무제 파일 1.md",
     "스프링 핵심 원리 - 기본편.md",
