@@ -59,9 +59,11 @@
             "id": "107c8ff7fe3d6fb6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "오브젝트 4장 정리.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ad996d741a42643b",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스프링 핵심 원리 - 기본편.md",
+                "file": "오브젝트 4장 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스프링 핵심 원리 - 기본편.md",
+                "file": "오브젝트 4장 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스프링 핵심 원리 - 기본편.md"
+                "file": "오브젝트 4장 정리.md"
               }
             }
           }
@@ -199,6 +200,7 @@
   },
   "active": "107c8ff7fe3d6fb6",
   "lastOpenFiles": [
+    "11월 29일 발표.md",
     "무제 파일 1.md",
     "스프링 핵심 원리 - 기본편.md",
     "오브젝트.md",
@@ -238,7 +240,6 @@
     "프로퍼티 접근자 로직 재활용.md",
     "육각형 개발자.md",
     "코틀린 인 액션 9장 '제네릭스' 복사본.md",
-    "11월 29일 발표.md",
     "리소스",
     "임시 메모(fleeting notes)/코딩테스트",
     "리소스",
