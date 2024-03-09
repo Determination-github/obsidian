@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "머신 러닝.md",
+                "file": "2023 Spring Camp 대규모 엔터프라이즈 시스템 개편 경험기.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "기술부채",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "머신 러닝.md",
+                "file": "2023 Spring Camp 대규모 엔터프라이즈 시스템 개편 경험기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "머신 러닝.md",
+                "file": "2023 Spring Camp 대규모 엔터프라이즈 시스템 개편 경험기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "머신 러닝.md"
+                "file": "2023 Spring Camp 대규모 엔터프라이즈 시스템 개편 경험기.md"
               }
             }
           }
@@ -212,8 +213,8 @@
   },
   "active": "282c6fdd7ac26228",
   "lastOpenFiles": [
-    "오브젝트 4장 정리.md",
     "머신 러닝.md",
+    "오브젝트 4장 정리.md",
     "11월 29일 발표.md",
     "무제 파일 1.md",
     "스프링 핵심 원리 - 기본편.md",
