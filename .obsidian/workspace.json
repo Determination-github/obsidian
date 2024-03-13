@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Spring Camp 대규모 엔터프라이즈 시스템 개편 경험기.md",
+                "file": "임시 메모(fleeting notes)/코딩테스트/시간 복잡도.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "기술부채",
+                "query": "시간복잡도",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Spring Camp 대규모 엔터프라이즈 시스템 개편 경험기.md",
+                "file": "임시 메모(fleeting notes)/코딩테스트/시간 복잡도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Spring Camp 대규모 엔터프라이즈 시스템 개편 경험기.md",
+                "file": "임시 메모(fleeting notes)/코딩테스트/시간 복잡도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Spring Camp 대규모 엔터프라이즈 시스템 개편 경험기.md"
+                "file": "임시 메모(fleeting notes)/코딩테스트/시간 복잡도.md"
               }
             }
           }
@@ -213,6 +213,9 @@
   },
   "active": "282c6fdd7ac26228",
   "lastOpenFiles": [
+    "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
+    "임시 메모(fleeting notes)/코딩테스트/시간 복잡도.md",
+    "2023 Spring Camp 대규모 엔터프라이즈 시스템 개편 경험기.md",
     "머신 러닝.md",
     "오브젝트 4장 정리.md",
     "11월 29일 발표.md",
@@ -234,7 +237,6 @@
     "오늘 질문.md",
     "코틀린 인 액션 9장 '제네릭스'.md",
     "리소스/오브젝트_1.4.png",
-    "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
     "리소스/오브젝트_1.1.png",
     "무제 폴더",
     "임시 메모(fleeting notes)/오브젝트",
@@ -251,8 +253,6 @@
     "무제 파일.canvas",
     "임시 메모(fleeting notes)/spring",
     "코틀린 인 액션 10장 '애노테이션과 리플렉션'.md",
-    "프로퍼티 접근자 로직 재활용.md",
-    "육각형 개발자.md",
     "리소스",
     "임시 메모(fleeting notes)/코딩테스트",
     "리소스",
