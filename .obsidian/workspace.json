@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "시간복잡도",
+                "query": "책임 주도 설계",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,7 +211,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "282c6fdd7ac26228",
+  "active": "57ce333baa1f0b5f",
   "lastOpenFiles": [
     "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
     "임시 메모(fleeting notes)/코딩테스트/시간 복잡도.md",
