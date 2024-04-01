@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1aa26c9a9bc13c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도메인 주도 설계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "임시 메모(fleeting notes)/코딩테스트/시간 복잡도.md",
+                "file": "도메인 주도 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "임시 메모(fleeting notes)/코딩테스트/시간 복잡도.md",
+                "file": "도메인 주도 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "임시 메모(fleeting notes)/코딩테스트/시간 복잡도.md"
+                "file": "도메인 주도 설계.md"
               }
             }
           }
@@ -211,10 +223,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "57ce333baa1f0b5f",
+  "active": "f1aa26c9a9bc13c4",
   "lastOpenFiles": [
-    "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
+    "도메인 주도 설계.md",
     "임시 메모(fleeting notes)/코딩테스트/시간 복잡도.md",
+    "임시 메모(fleeting notes)/코딩테스트/Do it! 알고리즘 코딩 테스트 - 자바편.md",
     "2023 Spring Camp 대규모 엔터프라이즈 시스템 개편 경험기.md",
     "머신 러닝.md",
     "오브젝트 4장 정리.md",
@@ -252,7 +265,6 @@
     "2023-12-03.md",
     "무제 파일.canvas",
     "임시 메모(fleeting notes)/spring",
-    "코틀린 인 액션 10장 '애노테이션과 리플렉션'.md",
     "리소스",
     "임시 메모(fleeting notes)/코딩테스트",
     "리소스",
