@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "책임 주도 설계",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ad996d741a42643b",
@@ -214,12 +215,22 @@
                 "file": "오브젝트 14장.md"
               }
             }
+          },
+          {
+            "id": "80b705ece52e594a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
