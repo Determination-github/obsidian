@@ -16,7 +16,9 @@
                 "file": "오브젝트 2장 정리.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "오브젝트 2장 정리"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "오브젝트 3장 정리.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "오브젝트 3장 정리"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "오브젝트.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "오브젝트"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "스프링 핵심 원리 - 기본편.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "스프링 핵심 원리 - 기본편"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "오브젝트 4장 정리.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "오브젝트 4장 정리"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "임시 메모(fleeting notes)/코딩테스트/시간 복잡도.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "시간 복잡도"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "도메인 주도 설계.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "도메인 주도 설계"
             }
           },
           {
@@ -100,7 +114,9 @@
                 "file": "오브젝트 14장.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "오브젝트 14장"
             }
           },
           {
@@ -110,7 +126,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.5.12"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.5.12"
             }
           },
           {
@@ -122,7 +140,9 @@
                 "file": "DDD.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DDD"
             }
           }
         ],
@@ -146,7 +166,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -161,7 +183,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -169,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -202,7 +228,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "DDD의 백링크"
             }
           },
           {
@@ -214,7 +242,9 @@
                 "file": "DDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "DDD의 나가는 링크"
             }
           },
           {
@@ -225,7 +255,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -235,7 +267,9 @@
               "type": "outline",
               "state": {
                 "file": "DDD.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "DDD 개요"
             }
           },
           {
@@ -243,7 +277,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
